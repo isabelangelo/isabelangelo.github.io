@@ -1,3 +1,6 @@
+
+<a href="../files/CV__2020_ (1).pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 ---
 layout: archive
 title: "CV"
