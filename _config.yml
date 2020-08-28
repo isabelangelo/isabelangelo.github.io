@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Isabel Angelo"
-  avatar           : "profile_photo.png"
+  avatar           : "../files/profile_photo.png"
   bio              : "Astrophysics PhD student at UCLA"
   location         : "Los Angeles, CA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@IsabelNAngelo"
   vine             :
   weibo            :
   xing             :
